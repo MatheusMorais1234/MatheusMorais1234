@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ### Hello World, I'm Matheus Morais👋
 <br>In the way to become a Full Stack Developer 😁<br>
 
@@ -13,6 +15,7 @@
 
 ##
 <div style="display: inline_block"><br>
+  
       
             <i class="devicon-java-plain-wordmark"></i>
           

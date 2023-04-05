@@ -26,8 +26,9 @@
 ##
 ### 🚀Follow Me:
 <div>
-   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   <a href="https://www.linkedin.com/in/matheus-morais-9b840526a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
+      badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
   ![Snake animation](https://github.com/RodneyRoque/RodneyRoque/blob/output/github-contribution-grid-snake.svg)
 </div>

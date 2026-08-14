@@ -21,9 +21,8 @@ Portuguese (native) · English (B2 — certified by UFG) · German (basic)
 ---
 
 ### 📌 Featured Projects
-- 🔗 **[Nome do projeto]** — descrição curta (React app)
-- 🔗 **[Nome do projeto]** — descrição curta (Java / Spring Boot API)
-- 🔗 **[Nome do projeto]** — descrição curta (PHP full-stack + banco)
+- 🔗 **[app-Assego]** — descrição curta (React app)
+- 🔗 **[plataforma-beneficioso]** — descrição curta (PHP / SUPABASE )
 
 ---
 

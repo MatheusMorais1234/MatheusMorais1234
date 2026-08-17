@@ -21,8 +21,7 @@ Portuguese (native) · English (B2 — certified by UFG) · German (basic)
 ---
 
 ### 📌 Featured Projects
-- 🔗 **[app-Assego]** — descrição curta (React app)
-- 🔗 **[plataforma-beneficioso]** — descrição curta (PHP / SUPABASE )
+
 
 ---
 

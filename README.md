@@ -21,7 +21,9 @@ Portuguese (native) · English (B2 — certified by UFG) · German (basic)
 ---
 
 ### 📌 Featured Projects
-**Freelamanager:** https://github.com/MatheusMorais1234/freelamanager
+- **[FreelaManager](https://github.com/MatheusMorais1234/freelamanager)**: client, contract and payment manager for freelancers. React + Express + Prisma + PostgreSQL. [Live demo](https://app.matheusmorais.com)
+- **[Bella Napoli](https://github.com/MatheusMorais1234/pizzaria-delivery)**: pizzeria delivery system with real-time order tracking, table QR codes and a kanban dashboard. PHP 8 + MySQL. [Live demo](https://pizzaria.matheusmorais.com)
+- **[Portfolio](https://github.com/MatheusMorais1234/portfolio)**: my personal site, hand-written HTML/CSS/JS, with Pix, boleto and CNAB tools that run in the browser. [matheusmorais.com](https://matheusmorais.com)
 
 ---
 
